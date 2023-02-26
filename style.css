@@ -1,0 +1,18 @@
+body
+{
+  background-color: rgb(194, 159, 226);
+  color: black;
+}
+
+.heading
+{
+ font: size 50px;
+ background-color: rgb(194, 220, 242);
+ font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.name_of_objects
+{
+  color: rgb(249, 229, 5);
+  
+}
